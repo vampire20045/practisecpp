@@ -1,3 +1,4 @@
+//arr=name of array =address of 0th index
 #include<iostream>
 using namespace std;
 int main(){
